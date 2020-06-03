@@ -19,6 +19,9 @@ function App() {
           Learn React
         </a>
       </header>
+      <footer className="App-footer">
+        Project 2 by <b>aslidsp</b>
+      </footer>
     </div>
   );
 }
